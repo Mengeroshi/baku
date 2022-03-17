@@ -101,7 +101,7 @@ export const Home = () => {
         </div>
       </section>
       <footer className={styles.footer}> 
-        <a className={styles.footerAnchor} target="_blank" href="https://t.me/+c-vWdhgcPHViNmEx">
+        <a className={styles.footerAnchor} target="_blank" rel="noreferrer" href="https://t.me/+c-vWdhgcPHViNmEx">
         <img className={styles.telgramIcon} src={TelegramIcon} alt="" /> Telegram
         </a>
       </footer>
