@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://mengeroshi.github.io/leos/static/css/main.d6c48d5d.css",
-    "main.js": "https://mengeroshi.github.io/leos/static/js/main.c596cec9.js",
+    "main.css": "https://mengeroshi.github.io/leos/static/css/main.14984689.css",
+    "main.js": "https://mengeroshi.github.io/leos/static/js/main.4c9880bf.js",
     "static/js/787.c1112931.chunk.js": "https://mengeroshi.github.io/leos/static/js/787.c1112931.chunk.js",
     "static/media/Crowdloan.jpeg": "https://mengeroshi.github.io/leos/static/media/Crowdloan.d1016c3564e0ff406eba.jpeg",
     "static/media/LEOSDEX.jpeg": "https://mengeroshi.github.io/leos/static/media/LEOSDEX.8d5761b407d5cc115d8d.jpeg",
@@ -10,12 +10,12 @@
     "static/media/Pools.jpeg": "https://mengeroshi.github.io/leos/static/media/Pools.c0fef3a136b1ae512a95.jpeg",
     "index.html": "https://mengeroshi.github.io/leos/index.html",
     "static/media/telegram.svg": "https://mengeroshi.github.io/leos/static/media/telegram.8b45e85c6ebce092879fa10e44602c6d.svg",
-    "main.d6c48d5d.css.map": "https://mengeroshi.github.io/leos/static/css/main.d6c48d5d.css.map",
-    "main.c596cec9.js.map": "https://mengeroshi.github.io/leos/static/js/main.c596cec9.js.map",
+    "main.14984689.css.map": "https://mengeroshi.github.io/leos/static/css/main.14984689.css.map",
+    "main.4c9880bf.js.map": "https://mengeroshi.github.io/leos/static/js/main.4c9880bf.js.map",
     "787.c1112931.chunk.js.map": "https://mengeroshi.github.io/leos/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6c48d5d.css",
-    "static/js/main.c596cec9.js"
+    "static/css/main.14984689.css",
+    "static/js/main.4c9880bf.js"
   ]
 }
