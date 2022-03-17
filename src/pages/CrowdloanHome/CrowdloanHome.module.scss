@@ -1,0 +1,48 @@
+@import '../../sass/variables.scss';
+
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: $title-color;
+    font-size: 64px;
+}
+
+.options{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.optionTiitle{
+    color: $title-color;
+    font-size: 48px;
+}
+
+.button{
+    border-radius: 8px;
+    width: 381px;
+    height: 173px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $default-color;
+    color: white;
+    border: unset;
+    font-size: 24px;
+    //padding: 58px;
+    align-self: stretch;
+}

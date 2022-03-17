@@ -1,0 +1,16 @@
+@import '../../sass/variables.scss';
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    width: 60%;
+    //background-color: $default-color ;
+}
+.table{
+    border-radius: 8px;
+    background-color: $default-color ;
+}
