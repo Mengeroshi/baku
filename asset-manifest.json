@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/crowd-loan-app/static/css/main.d6c48d5d.css",
-    "main.js": "/crowd-loan-app/static/js/main.2ae21786.js",
-    "static/js/787.c1112931.chunk.js": "/crowd-loan-app/static/js/787.c1112931.chunk.js",
-    "static/media/Crowdloan.jpeg": "/crowd-loan-app/static/media/Crowdloan.d1016c3564e0ff406eba.jpeg",
-    "static/media/LEOSDEX.jpeg": "/crowd-loan-app/static/media/LEOSDEX.8d5761b407d5cc115d8d.jpeg",
-    "static/media/EVM.jpeg": "/crowd-loan-app/static/media/EVM.f9faf816bdb38fc89a86.jpeg",
-    "static/media/LUSD.jpeg": "/crowd-loan-app/static/media/LUSD.38408281a04115c5878d.jpeg",
-    "static/media/Pools.jpeg": "/crowd-loan-app/static/media/Pools.c0fef3a136b1ae512a95.jpeg",
-    "index.html": "/crowd-loan-app/index.html",
-    "static/media/telegram.svg": "/crowd-loan-app/static/media/telegram.8b45e85c6ebce092879fa10e44602c6d.svg",
-    "main.d6c48d5d.css.map": "/crowd-loan-app/static/css/main.d6c48d5d.css.map",
-    "main.2ae21786.js.map": "/crowd-loan-app/static/js/main.2ae21786.js.map",
-    "787.c1112931.chunk.js.map": "/crowd-loan-app/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/leos/static/css/main.d6c48d5d.css",
+    "main.js": "/leos/static/js/main.d7c9b3a9.js",
+    "static/js/787.c1112931.chunk.js": "/leos/static/js/787.c1112931.chunk.js",
+    "static/media/Crowdloan.jpeg": "/leos/static/media/Crowdloan.d1016c3564e0ff406eba.jpeg",
+    "static/media/LEOSDEX.jpeg": "/leos/static/media/LEOSDEX.8d5761b407d5cc115d8d.jpeg",
+    "static/media/EVM.jpeg": "/leos/static/media/EVM.f9faf816bdb38fc89a86.jpeg",
+    "static/media/LUSD.jpeg": "/leos/static/media/LUSD.38408281a04115c5878d.jpeg",
+    "static/media/Pools.jpeg": "/leos/static/media/Pools.c0fef3a136b1ae512a95.jpeg",
+    "index.html": "/leos/index.html",
+    "static/media/telegram.svg": "/leos/static/media/telegram.8b45e85c6ebce092879fa10e44602c6d.svg",
+    "main.d6c48d5d.css.map": "/leos/static/css/main.d6c48d5d.css.map",
+    "main.d7c9b3a9.js.map": "/leos/static/js/main.d7c9b3a9.js.map",
+    "787.c1112931.chunk.js.map": "/leos/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6c48d5d.css",
-    "static/js/main.2ae21786.js"
+    "static/js/main.d7c9b3a9.js"
   ]
 }
