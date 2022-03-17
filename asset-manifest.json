@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/leos/static/css/main.d6c48d5d.css",
-    "main.js": "/leos/static/js/main.4c4a6923.js",
+    "main.js": "/leos/static/js/main.f31caf2c.js",
     "static/js/787.c1112931.chunk.js": "/leos/static/js/787.c1112931.chunk.js",
     "static/media/Crowdloan.jpeg": "/leos/static/media/Crowdloan.d1016c3564e0ff406eba.jpeg",
     "static/media/LEOSDEX.jpeg": "/leos/static/media/LEOSDEX.8d5761b407d5cc115d8d.jpeg",
@@ -11,11 +11,11 @@
     "index.html": "/leos/index.html",
     "static/media/telegram.svg": "/leos/static/media/telegram.8b45e85c6ebce092879fa10e44602c6d.svg",
     "main.d6c48d5d.css.map": "/leos/static/css/main.d6c48d5d.css.map",
-    "main.4c4a6923.js.map": "/leos/static/js/main.4c4a6923.js.map",
+    "main.f31caf2c.js.map": "/leos/static/js/main.f31caf2c.js.map",
     "787.c1112931.chunk.js.map": "/leos/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6c48d5d.css",
-    "static/js/main.4c4a6923.js"
+    "static/js/main.f31caf2c.js"
   ]
 }
