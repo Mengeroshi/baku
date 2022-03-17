@@ -8,7 +8,7 @@ export const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/leos" element={<Home />} />
         <Route path="/crowd-loan-info" element={<CrowdloanHome />} />
         <Route path="/registration" element={<Registration />} />
         <Route path="/crowd-status" element={<StatusTable />} />
